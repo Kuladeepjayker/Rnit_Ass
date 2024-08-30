@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkqentelli"]=self["webpackChunkqentelli"]||[]).push([[77],{3444:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var t=u(6768);const l=(0,t.Lk)("h1",null,"About Page",-1),r=[l];function a(n,e,u,l,a,c){return(0,t.uX)(),(0,t.CE)("div",null,r)}var c={name:"AboutView"},i=u(1241);const o=(0,i.A)(c,[["render",a]]);var s=o}}]);
+//# sourceMappingURL=AboutView.923d63f0.js.map
